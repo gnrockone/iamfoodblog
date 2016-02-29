@@ -4,12 +4,12 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-define('SITENAME',''); //put a sitename . This will be the prefix of table
-define('DB_NAME', 'database_name_here');
+define('TABLEPREFIX','iamfoodblog'); //This will be the prefix of table
+define('DB_NAME', 'iamfoodblog');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
-
+define( 'WP_DEFAULT_THEME', 'realest' );
 
 
 
@@ -45,7 +45,7 @@ define('NONCE_SALT',       'put your unique phrase here');
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = SITENAME . '_';
+$table_prefix  = TABLEPREFIX . '_';
 
 /**
  * For developers: WordPress debugging mode.

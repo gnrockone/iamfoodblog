@@ -1,4 +1,4 @@
-/*
+/*! Please do not remove ! for cssmin comment preservation
 Theme Name: Realest Theme
 Theme URI: http://leanconsulting.ph
 Author: Lorenz Gino D. Royo
@@ -11,4 +11,4 @@ Text Domain: twentythirteen
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
-*/
+*/.go-top,.the-title a{color:#fff}.go-top{position:fixed;bottom:2em;right:2em;text-decoration:none;background-color:rgba(0,0,0,.3);font-size:12px;padding:1em;display:none}.go-top:hover{background-color:rgba(0,0,0,.6)}h1,h2,h3,h4,h5,h6{font-family:Bitter-Regular}.open-sans,body{font-family:'open sans'}body{font-size:13pt;line-height:37px}.display-initial{display:initial}.display-none{display:none}.display-block{display:block}.navbar{margin-bottom:0}#instagram{background:url("../images/uploaded image/instagram16.png") center center no-repeat;width:16px;height:16px}#instagram:hover{background-color:red}.container{width:720px}.open-sans{font-size:13px;line-height:21px;color:#555}.height-300{height:400px;margin-bottom:30px}#search-methods-fluid{background-color:#222}.search-method-container.navbar-form{margin-right:10px;margin-left:10px;border:1px solid #5897FB;background-color:#444;width:300px;display:block}.search-input.form-control.search-methods-input{width:100%}.row.search-methods-row{width:960px}.chosen-drop{max-height:250px;padding:10px 15px;position:absolute;z-index:1;background-color:#444;margin-left:-15px;width:100%}.chosen-results{list-style:none;padding-left:0;margin-top:10px;margin-bottom:10px;max-height:180px;-webkit-overflow-scrolling:touch;overflow-x:hidden;overflow-y:auto;color:#fff}.chosen-single{display:block;cursor:pointer;padding:8px 0;color:#fff;position:relative}a.chosen-single:hover{color:#fff;text-decoration:none}.highlighted{background-color:#ddd;cursor:pointer}
